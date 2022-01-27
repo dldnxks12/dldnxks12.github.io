@@ -33,7 +33,7 @@ project_entries:
 #    url: overview-post
 #    desc: It also has a scalable vertical list (in case you need it)
 
- old_project_entries:
+old_project_entries:
   - title: BUSI Segmentation
     url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Deep%20Learning/-Project1-Segmentation
     desc: Disease Detector by Segmentation with FCN, SegNet, UNet 
