@@ -9,7 +9,7 @@ project_entries:
     desc: Improve Bi-Pedal instead of using DDPG
 
   - title: Path Finder
-    url: https://github.com/dldnxks12/Robotics
+    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Reinforcement%20Learning
     desc: Find Opimal Path with Object Detection & PG Algorithm 
 
 #  - title: Project 3
@@ -36,9 +36,9 @@ project_entries:
 #    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
 #    highlight: NEW
 
-#footer_entries:
-#  - title: abhinav's homepage
-#    url: https://www.abhinav.co
+footer_entries:
+  - title: Artificial Intelligent Study Log 
+    url: https://github.com/dldnxks12/A.I
 
 #misc_entries:
 #  - title: this is an example vertical list
