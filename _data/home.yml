@@ -40,6 +40,10 @@ footer_entries:
   - title: Artificial Intelligent Study Log 
     url: https://github.com/dldnxks12/A.I
 
+  - title: Robotics Study Log
+    url: https://github.com/dldnxks12/Robotics
+
+
 #misc_entries:
 #  - title: this is an example vertical list
 #    url: false

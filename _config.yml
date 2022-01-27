@@ -1,8 +1,13 @@
 title: Reinforcement Learning 
-author: Jongsoo Lee
+author: Jong soo Lee
 url: https://dldnxks12.github.io
 description: 
- This blog is for the Footprints of Reinforcement Learning Projects
+
+ Hello World, this is Jong soo :)
+
+ This blog is for logging reincement learning projects and some other related studies. 
+ If you have something to ask, you're always welcome!
+ You can contact to me with my e-mail ==> dldnxks12@naver.com
 
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
@@ -28,7 +33,7 @@ theme_config:
   home:
     title_projects: Projects
 #    title_misc_list: Details
-#    title_blog: Blog
+    title_blog: Study Log
 #    title_old_projects: Old Projects
 
 #soopr:
