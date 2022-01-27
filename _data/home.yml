@@ -5,11 +5,11 @@ navbar_entries:
 
 project_entries:
   - title: Upgrade Bi-Pedal
-    url: https://github.com/Robotics
+    url: https://github.com/dldnxks12/Robotics
     desc: Improve Bi-Pedal instead of using DDPG
 
   - title: Path Finder
-    url: https://github.com/Robotics
+    url: https://github.com/dldnxks12/Robotics
     desc: Find Opimal Path with Object Detection & PG Algorithm 
 
 #  - title: Project 3
