@@ -3,6 +3,9 @@ navbar_entries:
   - title: Github
     url: https://github.com/dldnxks12
 
+  - title: Notion 
+    url: 
+
 project_entries:
   - title: Upgrade Bi-Pedal
     url: https://github.com/dldnxks12/Robotics
@@ -30,26 +33,57 @@ project_entries:
 #    url: overview-post
 #    desc: It also has a scalable vertical list (in case you need it)
 
-# old_project_entries:
-#  - title: Soopr
-#    url: https://www.soopr.co
-#    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-#    highlight: NEW
+ old_project_entries:
+  - title: BUSI Segmentation
+    url: https://www.github.com/dldnxks12/A.I
+    desc: Disease Detector by Segmentation with FCN, SegNet, UNet 
+
+  - title: AI Hackerthon
+    url: https://www.github.com/dldnxks12/A.I
+    desc: Motion Classification with 6-axis gyroscope dataset  
+
+  - title: Image Style Transfer
+    url: https://www.github.com/dldnxks12/A.I
+    desc: Image Style Change with Segmentation and AdaIN 
+
+  - title: Robot Control simulation
+    url: https://www.github.com/dldnxks12/Robotics
+    desc: 3-Dof Robot Arm Control with MATLAB
+
+  - title: Motor Control 
+    url: https://www.github.com/dldnxks12/Robotics
+    desc: 1-Dof DC Motor Control with Atmega128
+
+  - title: F1TENTH
+    url: https://www.github.com/dldnxks12/Robotics
+    desc: F1TENTH Automatic Driving Simulation 
+
+  - title: 7-Sensor Plant
+    url: https://www.github.com/dldnxks12/Robotics
+    desc: 7-Sensor Smart Plant with Atmega128 
+
+  - title: Remote CCTV with Rbpi4 
+    url: https://www.github.com/dldnxks12/iot
+    desc: Control Toy CCTV with Flask and Rbpi4
+
+  - title: Line Tracer
+    url: https://www.github.com/dldnxks12/Robotics
+    desc: Line Tracer with VHDL
 
 footer_entries:
   - title: Artificial Intelligent Study Log 
     url: https://github.com/dldnxks12/A.I
 
-  - title: Robotics Study Log
+  - title: Robotics Study log
     url: https://github.com/dldnxks12/Robotics
 
 
-#misc_entries:
-#  - title: this is an example vertical list
-#    url: false
+misc_entries:
+  - title: Artificial Intelligent Study Log
+    url: https://github.com/dldnxks12/A.I
 
-#  - title: you can show or hide using a boolean flag in _config.yml
-#    url: false
+  - title: Robotics Study log
+    url: https://github.com/dldnxks12/Robotics
 
 #  - title: and you can add data in _data/home.yml
 #    url: false

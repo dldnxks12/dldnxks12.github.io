@@ -1,12 +1,12 @@
 title: Reinforcement Learning 
 author: Jong soo Lee
 url: https://dldnxks12.github.io
-description: |
- Hello World, this is Jong soo :) 
-
- This blog is for logging reincement learning projects and some other related studies.  
- If you have something to ask, you're always welcome!
- You can contact to me with my e-mail ==> dldnxks12@naver.com 
+description: |\n
+ Hello World, this is Jong soo :)\n 
+ \n
+ This blog is for logging reincement learning projects and some other related studies.\n  
+ If you have something to ask, you're always welcome!\n
+ You can contact to me with my e-mail ==> dldnxks12@naver.com\n
 
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
@@ -24,16 +24,16 @@ theme_config:
 
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: false # show blog posts added in _posts
-  show_old_projects: false # show old projects as cards, add in _data/home.yml
-  show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
+  show_blog: true # show blog posts added in _posts
+  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_misc_list: true # show generic vertical list for misc details, add _data/home.yml
 
   # options for "home" page
   home:
-    title_projects: Projects
-#    title_misc_list: Details
+    title_projects: Reinforcement Learning Projects
+    title_misc_list: Details
     title_blog: Study Log
-#    title_old_projects: Old Projects
+    title_old_projects: Related Projects
 
 #soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
