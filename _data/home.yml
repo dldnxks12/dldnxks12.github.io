@@ -4,7 +4,7 @@ navbar_entries:
     url: https://github.com/dldnxks12
 
   - title: Notion 
-    url: 
+    url: https://www.notion.so/24972913/Lee-Jong-Soo-9fc0f3e345104d69a49006082b8af375
 
 project_entries:
   - title: Upgrade Bi-Pedal
@@ -35,39 +35,43 @@ project_entries:
 
  old_project_entries:
   - title: BUSI Segmentation
-    url: https://www.github.com/dldnxks12/A.I
+    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Deep%20Learning/-Project1-Segmentation
     desc: Disease Detector by Segmentation with FCN, SegNet, UNet 
 
   - title: AI Hackerthon
-    url: https://www.github.com/dldnxks12/A.I
+    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Deep%20Learning/-Hackerton
     desc: Motion Classification with 6-axis gyroscope dataset  
 
   - title: Image Style Transfer
-    url: https://www.github.com/dldnxks12/A.I
+    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Deep%20Learning/-Project3-Segmentation
     desc: Image Style Change with Segmentation and AdaIN 
 
   - title: Robot Control simulation
-    url: https://www.github.com/dldnxks12/Robotics
+    url: https://github.com/dldnxks12/Robotics/tree/main/%23%20Robotics%20-%20Robot%20Control
     desc: 3-Dof Robot Arm Control with MATLAB
 
   - title: Motor Control 
-    url: https://www.github.com/dldnxks12/Robotics
+    url: https://github.com/dldnxks12/Robotics/tree/main/%23%20Robotics%20-%20Robotics%20Experiment/%23%20Term%20Project
     desc: 1-Dof DC Motor Control with Atmega128
 
   - title: F1TENTH
-    url: https://www.github.com/dldnxks12/Robotics
+    url: https://github.com/dldnxks12/Robotics/tree/main/%23%20Robotics%20-%20Robot%20Navigation
     desc: F1TENTH Automatic Driving Simulation 
 
   - title: 7-Sensor Plant
-    url: https://www.github.com/dldnxks12/Robotics
+    url: https://github.com/dldnxks12/iot/tree/main/Smart_Plant
     desc: 7-Sensor Smart Plant with Atmega128 
 
   - title: Remote CCTV with Rbpi4 
-    url: https://www.github.com/dldnxks12/iot
+    url: https://github.com/dldnxks12/iot/tree/main/CCTV/Flask
     desc: Control Toy CCTV with Flask and Rbpi4
+    
+  - title: Remote Cat Feeder with Rbpi4
+    url: https://github.com/dldnxks12/iot/tree/main/Cat_feeder
+    desc: Remote Control Cat Feeder 
 
   - title: Line Tracer
-    url: https://www.github.com/dldnxks12/Robotics
+    url: https://www.notion.so/24972913/Robotics-Experiment-10cfade741ed42a48b35693e6f613549
     desc: Line Tracer with VHDL
 
 footer_entries:
