@@ -7,22 +7,21 @@ navbar_entries:
     url: https://www.notion.so/24972913/Lee-Jong-Soo-9fc0f3e345104d69a49006082b8af375
 
 project_entries:
-  - title: Upgrade Bi-Pedal
+  - title: Upgrade Bi-Pedal -ing
     url: https://github.com/dldnxks12/Robotics
     desc: Improve Bi-Pedal instead of using DDPG
 
-  - title: Path Finder
+  - title: Path Finder -ing
     url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Reinforcement%20Learning
     desc: Find Opimal Path with Object Detection & PG Algorithm 
 
   - title: Upgrade CartPole
-    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Reinforcement%20Learning
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Reinforcement%20Learning%20-%20Control%20CartPole
     desc: New Problem : Stop at certain Point and make its Pole stable
 
   - title: Windy + Cliff
-    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Reinforcement%20Learning
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Reinforcement%20Learning%20-%20Windy%20Cliff
     desc: Solve Combined Windy Gridy World and Cliff Walking Problem
-
 
 
 #  - title: Project 3
@@ -45,16 +44,36 @@ project_entries:
 
 old_project_entries:
   - title: BUSI Segmentation
-    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Deep%20Learning/-Project1-Segmentation
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20BUSI%20Segmentation
     desc: Disease Detector by Segmentation with FCN, SegNet, UNet 
 
+  - title: Image Style Transfer
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Image%20Style%20Transfer
+    desc: Image Style Change with Segmentation and AdaIN 
+    
+  - title: Compare Segmentation Model 
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Human%20Parsing%20Segmentation
+    desc: Compare FCN, SegNet, U-Net with Carvana , BUSI, Human Parsing datasets
+
   - title: AI Hackerthon
-    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Deep%20Learning/-Hackerton
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Motion%20Classification%20-%20AI%20Hackerthon
     desc: Motion Classification with 3-axis IMU , 3-axis gyroscope data  
 
-  - title: Image Style Transfer
-    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Deep%20Learning/-Project3-Segmentation
-    desc: Image Style Change with Segmentation and AdaIN 
+  - title: Web Crawling
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Web%20Crawling
+    desc: Crawling Indeed Web Page 
+
+  - title: Hand Motion Classifier
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Hand%20Motion%20Classifier
+    desc: Classify Hand Motion with CNN Base Model 
+
+  - title: Sequential Classifier
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Sequential%20Classifier
+    desc: Practicing NLP Model with Sequential dataset
+
+  - title: Grade Predictor
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Student%20Grade%20Prediction
+    desc: Predict Grade for practicing fine data processing
 
   - title: Robot Control
     url: https://github.com/dldnxks12/Robotics/tree/main/%23%20Robotics%20-%20Robot%20Control
@@ -93,8 +112,20 @@ old_project_entries:
 
 
 misc_entries:
-  - title: Artificial Intelligent Repository
-    url: https://github.com/dldnxks12/A.I
+  - title: Deep Learning Repository
+    url: https://github.com/dldnxks12/A.I/tree/master/Deep%20Learning
+    
+  - title: Machine Learning Repository
+    url: https://github.com/dldnxks12/A.I/tree/master/Machine%20Learning
+    
+  - title: Reinforcement Learning Repository /#1
+    url: https://github.com/dldnxks12/A.I/tree/master/Reinforcement%20Learning%20%231
+    
+  - title: Reinforcement Learning Repository /#2
+    url: https://github.com/dldnxks12/A.I/tree/master/Reinforcement%20Learning%20%232
+
+  - title: Data Science Repository
+    url: https://github.com/dldnxks12/A.I/tree/master/DataScience
 
   - title: Robotics Repository
     url: https://github.com/dldnxks12/Robotics
