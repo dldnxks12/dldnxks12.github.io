@@ -1,5 +1,4 @@
 navbar_entries:
-
   - title: Github
     url: https://github.com/dldnxks12
 
@@ -17,7 +16,7 @@ project_entries:
 
   - title: Upgrade CartPole
     url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Reinforcement%20Learning%20-%20Control%20CartPole
-    desc: New Problem : Stop at certain Point and make its Pole stable
+    desc: Stop at certain Point and make its Pole stable
 
   - title: Windy + Cliff
     url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Reinforcement%20Learning%20-%20Windy%20Cliff
