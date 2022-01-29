@@ -7,12 +7,12 @@ navbar_entries:
     url: https://www.notion.so/24972913/Lee-Jong-Soo-9fc0f3e345104d69a49006082b8af375
 
 project_entries:
-  - title: Upgrade Bi-Pedal -ing
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Reinforcement%20Learning%20-%20Control%20CartPole    url: https://github.com/dldnxks12/Robotics
+  - title: Upgrade Bi-Pedal
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Reinforcement%20Learning%20-%20Control%20CartPole
     desc: Improve Bi-Pedal instead of using DDPG
 
-  - title: Path Finder -ing
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Reinforcement%20Learning%20-%20Control%20CartPole    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Reinforcement%20Learning
+  - title: Path Finder
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Reinforcement%20Learning%20-%20Control%20CartPole  
     desc: Find Opimal Path with Object Detection & PG Algorithm 
 
   - title: Upgrade CartPole
