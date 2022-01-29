@@ -15,6 +15,16 @@ project_entries:
     url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Reinforcement%20Learning
     desc: Find Opimal Path with Object Detection & PG Algorithm 
 
+  - title: Upgrade CartPole
+    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Reinforcement%20Learning
+    desc: New Problem : Stop at certain Point and make its Pole stable
+
+  - title: Windy + Cliff
+    url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Reinforcement%20Learning
+    desc: Solve Combined Windy Gridy World and Cliff Walking Problem
+
+
+
 #  - title: Project 3
 #    url: overview-post
 #    desc: You can control visibility from _config.yml file
@@ -40,7 +50,7 @@ old_project_entries:
 
   - title: AI Hackerthon
     url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Deep%20Learning/-Hackerton
-    desc: Motion Classification with 6-axis gyroscope dataset  
+    desc: Motion Classification with 3-axis IMU , 3-axis gyroscope data  
 
   - title: Image Style Transfer
     url: https://github.com/dldnxks12/A.I/tree/master/%23%20Project%20-%20Deep%20Learning/-Project3-Segmentation
@@ -52,7 +62,7 @@ old_project_entries:
 
   - title: Motor Control 
     url: https://github.com/dldnxks12/Robotics/tree/main/%23%20Robotics%20-%20Robotics%20Experiment/%23%20Term%20Project
-    desc: 1-Dof DC Motor Control with Atmega128
+    desc: 2 Link DC Motor Control with Atmega128
 
   - title: F1TENTH
     url: https://github.com/dldnxks12/Robotics/tree/main/%23%20Robotics%20-%20Robot%20Navigation
