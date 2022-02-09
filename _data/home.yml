@@ -26,6 +26,10 @@ project_entries:
   - title: DQN+CNN
     url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20DQN%20CNN%20CartPole
     desc: Use Non-Linear Model for solving CartPole 
+    
+  - title: D3QN
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20D3QN
+    desc: Remove Maximization Bias and Improve Converge Speed of DQN 
   
 
 #  - title: Project 3
