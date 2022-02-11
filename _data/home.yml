@@ -30,6 +30,9 @@ project_entries:
     url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20D3QN
     desc: Remove Maximization Bias and Improve Converge Speed of DQN 
   
+  - title: Atari with DQN_CNN
+    url: https://github.com/dldnxks12/A.I/tree/master/Reinforcement%20Learning%20%232/Atarai%20Simulation
+    desc: Train Atari Grams with DQN_CNN
 
 #  - title: Project 3
 #    url: overview-post
