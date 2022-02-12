@@ -6,19 +6,24 @@ navbar_entries:
     url: https://www.notion.so/24972913/Lee-Jong-Soo-9fc0f3e345104d69a49006082b8af375
 
 project_entries:
-  - title: Upgrade Bi-Pedal -ing
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Upgrade%20Bi-Pedal
-    desc: Improve Bi-Pedal instead of using DDPG
+    
+  - title: Train BiPedal -ing
+    url: https://github.com/dldnxks12/A.I/tree/master/Reinforcement%20Learning%20%232/Final%20Project
+    desc: Imporve Bi-Pedal with DDPG, SAC, DQN
 
+  - title: Discretized DDPG
+    url: https://github.com/dldnxks12/A.I/tree/master/Reinforcement%20Learning%20%232/Final%20Project/Discretization
+    desc: Improve Bi-Pedal with Discretized DDPG Algorithm
+    
   - title: Path Finder -ing
     url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Path%20Finder
     desc: Find Opimal Path with Object Detection & PG Algorithm 
 
-  - title: Upgrade CartPole
+  - title: Imporve CartPole
     url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Control%20CartPole
     desc: Stop at certain Point and make its Pole stable
 
-  - title: Windy + Cliff
+  - title: Windy+Cliff
     url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Windy%20Cliff
     desc: Solve Combined Windy Gridy World and Cliff Walking Problem
 
@@ -26,7 +31,7 @@ project_entries:
     url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20DQN%20CNN%20CartPole
     desc: Use Non-Linear Model for solving CartPole 
     
-  - title: Improve DQN -D3QN
+  - title: Improve DQN-D3QN
     url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20D3QN
     desc: Remove Maximization Bias and Improve Converge Speed of DQN 
   
