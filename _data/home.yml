@@ -7,17 +7,13 @@ navbar_entries:
 
 project_entries:
     
-  - title: Train BiPedal -ing
+  - title: Improve BiPedal
     url: https://github.com/dldnxks12/A.I/tree/master/Reinforcement%20Learning%20%232/Final%20Project
-    desc: Imporve Bi-Pedal with DDPG, SAC, DQN
+    desc: Imporve Bi-Pedal with PPO,TD3,DDPG,DQN
 
   - title: Discretized DDPG
     url: https://github.com/dldnxks12/A.I/tree/master/Reinforcement%20Learning%20%232/Final%20Project/Discretization
-    desc: Improve Bi-Pedal with Discretized DDPG Algorithm
-    
-  - title: Path Finder -ing
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Path%20Finder
-    desc: Find Opimal Path with Object Detection & PG Algorithm 
+    desc: Improve Bi-Pedal with Discretized DDPG Algorithm    
 
   - title: Imporve CartPole
     url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Control%20CartPole
