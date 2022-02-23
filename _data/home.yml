@@ -12,7 +12,7 @@ project_entries:
     desc: Imporve Bi-Pedal with PPO,TD3 Ensemble Method 
 
   - title: Imporve CartPole
-    url:https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%202.%20Control%20CartPole
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%202.%20Control%20CartPole
     desc: Stop at certain Point and make its Pole stable
 
   - title: Windy+Cliff
