@@ -24,7 +24,7 @@ project_entries:
     desc: Use Non-Linear Model for solving CartPole 
     
   - title: Improve DQN-D3QN
-    url:https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%205.%20D3QN
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%205.%20D3QN
     desc: Remove Maximization Bias and Improve Converge Speed of DQN 
   
   - title: Atari with DQN_CNN
