@@ -8,7 +8,7 @@ navbar_entries:
 project_entries:
     
   - title: Improve BiPedal
-    url: https://github.com/dldnxks12/A.I/tree/master/Reinforcement%20Learning%20%232/Final%20Project
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Upgrade%20Bi-Pedal
     desc: Imporve Bi-Pedal with PPO,TD3 Ensemble Method 
 
   - title: Discretized DDPG
