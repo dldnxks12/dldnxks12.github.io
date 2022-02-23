@@ -8,27 +8,23 @@ navbar_entries:
 project_entries:
     
   - title: Improve BiPedal
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Upgrade%20Bi-Pedal
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%201.%20Upgrade%20Bi-Pedal
     desc: Imporve Bi-Pedal with PPO,TD3 Ensemble Method 
 
-  - title: Discretized DDPG
-    url: https://github.com/dldnxks12/A.I/tree/master/Reinforcement%20Learning%20%232/Final%20Project/Discretization
-    desc: Improve Bi-Pedal with Discretized DDPG Algorithm    
-
   - title: Imporve CartPole
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Control%20CartPole
+    url:https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%202.%20Control%20CartPole
     desc: Stop at certain Point and make its Pole stable
 
   - title: Windy+Cliff
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20Windy%20Cliff
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%204.%20Windy%20Cliff
     desc: Solve Combined Windy Gridy World and Cliff Walking Problem
 
   - title: DQN+CNN
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20DQN%20CNN%20CartPole
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%203.%20DQN%20CNN%20CartPole
     desc: Use Non-Linear Model for solving CartPole 
     
   - title: Improve DQN-D3QN
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%20D3QN
+    url:https://github.com/dldnxks12/Projects/tree/main/%23%20RL%20-%205.%20D3QN
     desc: Remove Maximization Bias and Improve Converge Speed of DQN 
   
   - title: Atari with DQN_CNN
@@ -55,35 +51,35 @@ project_entries:
 
 old_project_entries:
   - title: BUSI Segmentation
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20DL%20-%20BUSI%20Segmentation
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20DL%20-%20BUSI%20Segmentation
     desc: Disease Detector by Segmentation with FCN, SegNet, UNet 
 
   - title: Image Style Transfer
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20DL%20-%20Image%20Style%20Transfer
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20DL%20-%20Image%20Style%20Transfer
     desc: Image Style Change with Segmentation and AdaIN 
     
   - title: Compare Segmentation 
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20DL%20-%20Human%20Parsing%20Segmentation
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20DL%20-%20Human%20Parsing%20Segmentation
     desc: Compare FCN, SegNet, U-Net with Carvana , BUSI, Human Parsing datasets
 
   - title: AI Hackerthon
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20DL%20-%20Motion%20Classification%20-%20AI%20Hackerthon
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20DL%20-%20Motion%20Classification%20-%20AI%20Hackerthon
     desc: Motion Classification with 3-axis IMU , 3-axis gyroscope data  
 
   - title: Web Crawling
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20DS%20-%20Web%20Crawling
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20DS%20-%20Web%20Crawling
     desc: Crawling Indeed Web Page 
 
   - title: Hand Motion Classifier
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20DL%20-%20Hand%20Motion%20Classifier
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20DL%20-%20Hand%20Motion%20Classifier
     desc: Classify Hand Motion with CNN Base Model 
 
   - title: Sequential Classifier
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20DL%20-%20Sequential%20Classifier
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20DL%20-%20Sequential%20Classifier
     desc: Practicing NLP Model with Sequential dataset
 
   - title: Grade Predictor
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20DS%20-%20Student%20Grade%20Prediction
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20DS%20-%20Student%20Grade%20Prediction
     desc: Predict Grade for practicing fine data processing
 
   - title: Robot Control
@@ -99,15 +95,15 @@ old_project_entries:
     desc: F1TENTH Automatic Driving Simulation 
 
   - title: 7-Sensor Plant
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Iot%20-%207%20Sensor%20Plant
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Iot%20-%207%20Sensor%20Plant
     desc: 7-Sensor Smart Plant with Atmega128 
 
   - title: Remote CCTV
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Iot%20-%20Remote%20CCTV
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Iot%20-%20Remote%20CCTV
     desc: Control Toy CCTV with Flask and Rbpi4
     
   - title: Remote Cat Feeder
-    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Iot%20-%20Remote%20cat%20feeder
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20Iot%20-%20Remote%20cat%20feeder
     desc: Remote Control Cat Feeder 
 
   - title: Line Tracer
