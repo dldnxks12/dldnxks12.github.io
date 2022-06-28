@@ -50,6 +50,11 @@ project_entries:
 #    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
+
+  - title: Capstone
+    url: https://github.com/dldnxks12/Projects/tree/main/%23%20Capstone%20-%20AutoDrivingCar
+    desc: Segmentation base auto-driving robot
+   
   - title: BUSI Segmentation
     url: https://github.com/dldnxks12/Projects/tree/main/%23%23%20DL%20-%20BUSI%20Segmentation
     desc: Disease Detector by Segmentation with FCN, SegNet, UNet 
